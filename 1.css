@@ -1,0 +1,19 @@
+body{
+    background-color: rebeccapurple;
+}
+
+td{
+   
+    padding: 0px 25px;
+    border: 2px solid yellow;
+}
+
+
+table{
+    background-color:aqua;
+    border: 2px solid black;
+    padding-top: 10px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+
